@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Event App</string>
+
+    <!-- General Strings -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string> <!-- ✅ Fixed line -->
+
+    <!-- Firebase Google Sign-In Web Client ID -->
+    <string name="default_web_client_id">462147123824-aaj6mnqf63kl615ub9bi50td3e3mum4a.apps.googleusercontent.com</string>
+
+    <!-- Lorem Ipsum Placeholder -->
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris volutpat,
+        dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus dui nec risus.
+        Suspendisse blandit eleifend diam, vel rutrum tellus vulputate quis...
+    </string>
+</resources>
